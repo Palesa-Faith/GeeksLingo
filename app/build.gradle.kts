@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.geekslingo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.geekslingo"
@@ -31,6 +31,7 @@ android {
         jvmTarget = "1.8"
     }
 }
+
 
 dependencies {
 
