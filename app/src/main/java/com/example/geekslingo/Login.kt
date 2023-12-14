@@ -1,5 +1,6 @@
 package com.example.geekslingo
 
+import android.content.Intent // Add this import statement
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -21,9 +22,9 @@ class Login : AppCompatActivity() {
         btnLogin = findViewById(R.id.btnLogin)
         btnSignUp = findViewById(R.id.btnSignUp)
 
-        /*btnSignUp.setOnClickListener {
-          val intent = Intent(this, SignUp::class.java)
+        btnSignUp.setOnClickListener {
+            val intent = Intent(this, SignUp::class.java)
             startActivity(intent)
-        }*/
+        }
     }
 }
