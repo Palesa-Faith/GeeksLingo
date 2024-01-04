@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "361620077564",
-    "project_id": "geekslingo-4775c",
-    "storage_bucket": "geekslingo-4775c.appspot.com"
+    "project_number": "242480576875",
+    "project_id": "geekslingo-686e1",
+    "storage_bucket": "geekslingo-686e1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:361620077564:android:5a2844aa03888f7475d079",
+        "mobilesdk_app_id": "1:242480576875:android:c13fc459b83120f773742e",
         "android_client_info": {
           "package_name": "com.example.geekslingo"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAPGmo96rYen8cKKyYM2v7nLopxQOqKhj0"
+          "current_key": "AIzaSyDCsXpvq23umwTyKR5R0PQM4Udc-3QGxtY"
         }
       ],
       "services": {

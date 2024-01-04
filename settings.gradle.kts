@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Geeks Lingo"
+rootProject.name = "GeeksLingo"
 include(":app")
